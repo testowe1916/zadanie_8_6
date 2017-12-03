@@ -5,14 +5,12 @@ console.log(value);
 alert(value);
 if (value > 0) {
 	console.log('Liczba dodatnia');
-	alert('dodatnia')
-}
-else if (value < 0) {
+	alert('dodatnia');
+} else if (value < 0) {
 	console.log('Liczba ujemna');
-	alert('minus')
-}
-else if (value == 0) {
+	alert('minus');
+} else if (value == 0) {
 	console.log('Liczba równa się 0');
-	alert('0')
+	alert('0');
 };
 
